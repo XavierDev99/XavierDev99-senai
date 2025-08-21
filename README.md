@@ -12,14 +12,13 @@
 
 ## 🚀 Tecnologias & Ferramentas
 🖥️ Linguagens: js e python
-⚙️ Ferramentas: ___________  
 🗄️ Banco de Dados: MySQL
 
 ---
 
 ## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=XavierDev99&show_icons=true&theme=tokyonight)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierDev99&layout=compact&theme=tokyonight)  
 
 ---
 
